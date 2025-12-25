@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+}
+
+body{
+  width: 100vw;
+  height: 100vh;
+  background-color: rgb(52, 52, 52);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.main{
+  padding: 80px;
+  border: 1px solid white;
+  border-radius: 12px;
+
+}
+
+hr{
+  width: 65%;
+}
+
+br{
+  margin: 4px;
+}
+.name{
+  color: rgb(252, 123, 10);
+}
+
+.main-title{
+  color: rgb(9, 165, 9);
+}
+
+p{
+  color: #ffffff;
+}
+
+.main-life{
+  color: rgb(0, 118, 228);
+}
